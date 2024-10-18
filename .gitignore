@@ -1,0 +1,5 @@
+# ignoring Jupyter checkpoints
+*-checkpoint.ipynb
+
+#bkup label is used to store any bkup file
+*_bkup.ipynb
