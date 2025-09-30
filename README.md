@@ -10,4 +10,6 @@ en la capçalera del document, podreu fer correr el codi de manera directe via w
 
 <br>
 
-<img width="300" alt="Fisica_cmyk_witheBG" src="https://github.com/user-attachments/assets/49b44516-df96-46e3-b162-782d32b981a2" />
+<p align="right">
+<img width="200" alt="Fisica_cmyk_witheBG" src="https://github.com/user-attachments/assets/49b44516-df96-46e3-b162-782d32b981a2" />
+</p>
